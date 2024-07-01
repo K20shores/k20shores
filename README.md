@@ -1,4 +1,6 @@
 ## Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k20shores)]([https://github.com/k20shores/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=k20shores))
 [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=k20shores)]([https://github.com/k20shores/github-readme-stats](https://github-readme-stats.vercel.app/api?username=k20shores))
 
 ## Recently Played
