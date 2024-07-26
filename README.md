@@ -8,6 +8,6 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of his Time](https://www.goodreads.com/review/show/6579876495?utm_medium=api&utm_source=rss) by Dava Sobel (⭐️4.23)
+- [The Atlas Six (The Atlas, #1)](https://www.goodreads.com/review/show/6699959044?utm_medium=api&utm_source=rss) by Olivie Blake (⭐️3.7)
 - [Computing the Climate: How We Know What We Know About Climate Change](https://www.goodreads.com/review/show/6430473002?utm_medium=api&utm_source=rss) by Steve M. Easterbrook (⭐️5)
 <!-- GOODREADS-LIST:END -->
