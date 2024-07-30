@@ -8,6 +8,6 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [The Atlas Six (The Atlas, #1)](https://www.goodreads.com/review/show/6699959044?utm_medium=api&utm_source=rss) by Olivie Blake (⭐️3.7)
+- [The Titan's Curse (Percy Jackson and the Olympians, #3)](https://www.goodreads.com/review/show/6710677421?utm_medium=api&utm_source=rss) by Rick Riordan (⭐️4.5)
 - [Computing the Climate: How We Know What We Know About Climate Change](https://www.goodreads.com/review/show/6430473002?utm_medium=api&utm_source=rss) by Steve M. Easterbrook (⭐️5)
 <!-- GOODREADS-LIST:END -->
