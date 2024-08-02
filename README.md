@@ -8,7 +8,7 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
+- [The Atlas Paradox (The Atlas, #2)](https://www.goodreads.com/review/show/6721395804?utm_medium=api&utm_source=rss) by Olivie Blake (⭐️3.55)
 - [Just Enough Software Architecture: A Risk-Driven Approach](https://www.goodreads.com/review/show/6714943078?utm_medium=api&utm_source=rss) by George H. Fairbanks (⭐️3.46)
-- [The Titan's Curse (Percy Jackson and the Olympians, #3)](https://www.goodreads.com/review/show/6710677421?utm_medium=api&utm_source=rss) by Rick Riordan (⭐️4.5)
 - [Computing the Climate: How We Know What We Know About Climate Change](https://www.goodreads.com/review/show/6430473002?utm_medium=api&utm_source=rss) by Steve M. Easterbrook (⭐️5)
 <!-- GOODREADS-LIST:END -->
