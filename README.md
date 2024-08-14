@@ -8,6 +8,6 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [The Atlas Paradox (The Atlas, #2)](https://www.goodreads.com/review/show/6721395804?utm_medium=api&utm_source=rss) by Olivie Blake (⭐️3.55)
+- [The Atlas Complex (The Atlas, #3)](https://www.goodreads.com/review/show/6753784293?utm_medium=api&utm_source=rss) by Olivie Blake (⭐️3.09)
 - [Just Enough Software Architecture: A Risk-Driven Approach](https://www.goodreads.com/review/show/6714943078?utm_medium=api&utm_source=rss) by George H. Fairbanks (⭐️3.46)
 <!-- GOODREADS-LIST:END -->
