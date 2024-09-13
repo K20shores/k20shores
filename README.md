@@ -1,6 +1,6 @@
 ## Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k20shores&layout=compact)]([https://github.com/k20shores/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=k20shores&layout=compact))
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k20shores&layout=compact)]([https://github.com/k20shores/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=k20shores&layout=compact&hide=jupyter%20notebook))
 [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=k20shores)]([https://github.com/k20shores/github-readme-stats](https://github-readme-stats.vercel.app/api?username=k20shores))
 
 ## Recently Played
