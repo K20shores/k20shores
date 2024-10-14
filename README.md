@@ -8,7 +8,7 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [The Lost Hero (The Heroes of Olympus, #1)](https://www.goodreads.com/review/show/6899021934?utm_medium=api&utm_source=rss) by Rick Riordan (⭐️4.29)
+- [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/6921941459?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.62)
 - [Decoding Your Cat: The Ultimate Experts Explain Common Cat Behaviors and Reveal How to Prevent or Change Unwanted Ones](https://www.goodreads.com/review/show/6896937317?utm_medium=api&utm_source=rss) by American College of Veterinary Behaviorists (⭐️4.12)
 - [The Non-Designer's Design Book](https://www.goodreads.com/review/show/6838443469?utm_medium=api&utm_source=rss) by Robin P. Williams (⭐️4.08)
 - [The Atlas Complex (The Atlas, #3)](https://www.goodreads.com/review/show/6753784293?utm_medium=api&utm_source=rss) by Olivie Blake (⭐️3.06)
