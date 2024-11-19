@@ -8,6 +8,7 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
+- [Tell Me More: Stories About the 12 Hardest Things I'm Learning to Say](https://www.goodreads.com/review/show/7014199343?utm_medium=api&utm_source=rss) by Kelly Corrigan (⭐️4.16)
 - [Decoding Your Cat: The Ultimate Experts Explain Common Cat Behaviors and Reveal How to Prevent or Change Unwanted Ones](https://www.goodreads.com/review/show/6896937317?utm_medium=api&utm_source=rss) by American College of Veterinary Behaviorists (⭐️4.13)
 - [The Non-Designer's Design Book](https://www.goodreads.com/review/show/6838443469?utm_medium=api&utm_source=rss) by Robin P. Williams (⭐️4.09)
 - [Just Enough Software Architecture: A Risk-Driven Approach](https://www.goodreads.com/review/show/6714943078?utm_medium=api&utm_source=rss) by George H. Fairbanks (⭐️3.48)
