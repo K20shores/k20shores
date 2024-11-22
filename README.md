@@ -8,6 +8,7 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
+- [The Mark of Athena (The Heroes of Olympus, #3)](https://www.goodreads.com/review/show/7022361075?utm_medium=api&utm_source=rss) by Rick Riordan (⭐️4.56)
 - [Decoding Your Cat: The Ultimate Experts Explain Common Cat Behaviors and Reveal How to Prevent or Change Unwanted Ones](https://www.goodreads.com/review/show/6896937317?utm_medium=api&utm_source=rss) by American College of Veterinary Behaviorists (⭐️4.13)
 - [The Non-Designer's Design Book](https://www.goodreads.com/review/show/6838443469?utm_medium=api&utm_source=rss) by Robin P. Williams (⭐️4.09)
 - [Just Enough Software Architecture: A Risk-Driven Approach](https://www.goodreads.com/review/show/6714943078?utm_medium=api&utm_source=rss) by George H. Fairbanks (⭐️3.48)
