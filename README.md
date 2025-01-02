@@ -8,6 +8,7 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
+- [The Demigod Files (Percy Jackson and the Olympians)](https://www.goodreads.com/review/show/7154384245?utm_medium=api&utm_source=rss) by Rick Riordan (⭐️3.96)
 - [The House of Hades (Heroes of Olympus, #4)](https://www.goodreads.com/review/show/7137218022?utm_medium=api&utm_source=rss) by Rick Riordan (⭐️4.61)
 - [SPQR: A History of Ancient Rome](https://www.goodreads.com/review/show/7126871599?utm_medium=api&utm_source=rss) by Mary Beard (⭐️4.17)
 - [Decoding Your Cat: The Ultimate Experts Explain Common Cat Behaviors and Reveal How to Prevent or Change Unwanted Ones](https://www.goodreads.com/review/show/6896937317?utm_medium=api&utm_source=rss) by American College of Veterinary Behaviorists (⭐️4.14)
