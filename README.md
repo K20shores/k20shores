@@ -9,7 +9,6 @@
 ### Reading
 <!-- GOODREADS-LIST:START -->
 - [Wind and Truth (The Stormlight Archive, #5)](https://www.goodreads.com/review/show/7176723439?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.69)
-- [The God Delusion](https://www.goodreads.com/review/show/7171454088?utm_medium=api&utm_source=rss) by Richard Dawkins (⭐️3.89)
 - [SPQR: A History of Ancient Rome](https://www.goodreads.com/review/show/7126871599?utm_medium=api&utm_source=rss) by Mary Beard (⭐️4.17)
 - [Decoding Your Cat: The Ultimate Experts Explain Common Cat Behaviors and Reveal How to Prevent or Change Unwanted Ones](https://www.goodreads.com/review/show/6896937317?utm_medium=api&utm_source=rss) by American College of Veterinary Behaviorists (⭐️4.14)
 - [The Non-Designer's Design Book](https://www.goodreads.com/review/show/6838443469?utm_medium=api&utm_source=rss) by Robin P. Williams (⭐️4.09)
