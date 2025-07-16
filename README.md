@@ -8,7 +8,6 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [Half a War (Shattered Sea, #3)](https://www.goodreads.com/review/show/7733230288?utm_medium=api&utm_source=rss) by Joe Abercrombie (⭐️4.01)
 - [SPQR: A History of Ancient Rome](https://www.goodreads.com/review/show/7126871599?utm_medium=api&utm_source=rss) by Mary Beard (⭐️4.17)
 - [Decoding Your Cat: The Ultimate Experts Explain Common Cat Behaviors and Reveal How to Prevent or Change Unwanted Ones](https://www.goodreads.com/review/show/6896937317?utm_medium=api&utm_source=rss) by American College of Veterinary Behaviorists (⭐️4.13)
 - [The Non-Designer's Design Book](https://www.goodreads.com/review/show/6838443469?utm_medium=api&utm_source=rss) by Robin P. Williams (⭐️4.09)
