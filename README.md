@@ -8,7 +8,6 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [Foundation and Empire (Foundation, #2)](https://www.goodreads.com/review/show/7884259889?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️4.23)
 - [SPQR: A History of Ancient Rome](https://www.goodreads.com/review/show/7126871599?utm_medium=api&utm_source=rss) by Mary Beard (⭐️4.18)
 - [Decoding Your Cat: The Ultimate Experts Explain Common Cat Behaviors and Reveal How to Prevent or Change Unwanted Ones](https://www.goodreads.com/review/show/6896937317?utm_medium=api&utm_source=rss) by American College of Veterinary Behaviorists (⭐️4.14)
 - [Just Enough Software Architecture: A Risk-Driven Approach](https://www.goodreads.com/review/show/6714943078?utm_medium=api&utm_source=rss) by George H. Fairbanks (⭐️3.47)
