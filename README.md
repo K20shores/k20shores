@@ -8,6 +8,7 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
+- [Tress of the Emerald Sea](https://www.goodreads.com/review/show/6707751332?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.43)
 - [SPQR: A History of Ancient Rome](https://www.goodreads.com/review/show/7126871599?utm_medium=api&utm_source=rss) by Mary Beard (⭐️4.18)
 - [Decoding Your Cat: The Ultimate Experts Explain Common Cat Behaviors and Reveal How to Prevent or Change Unwanted Ones](https://www.goodreads.com/review/show/6896937317?utm_medium=api&utm_source=rss) by American College of Veterinary Behaviorists (⭐️4.14)
 - [Just Enough Software Architecture: A Risk-Driven Approach](https://www.goodreads.com/review/show/6714943078?utm_medium=api&utm_source=rss) by George H. Fairbanks (⭐️3.47)
