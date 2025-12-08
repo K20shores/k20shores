@@ -10,5 +10,5 @@
 <!-- GOODREADS-LIST:START -->
 - [Elantris (Elantris, #1)](https://www.goodreads.com/review/show/8120169313?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.33)
 - [SPQR: A History of Ancient Rome](https://www.goodreads.com/review/show/7126871599?utm_medium=api&utm_source=rss) by Mary Beard (⭐️4.18)
-- [Decoding Your Cat: The Ultimate Experts Explain Common Cat Behaviors and Reveal How to Prevent or Change Unwanted Ones](https://www.goodreads.com/review/show/6896937317?utm_medium=api&utm_source=rss) by American College of Veterinary Behaviorists (⭐️4.14)
+- [Decoding Your Cat: The Ultimate Experts Explain Common Cat Behaviors and Reveal How to Prevent or Change Unwanted Ones](https://www.goodreads.com/review/show/6896937317?utm_medium=api&utm_source=rss) by American College of Veterinary Behaviorists (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
