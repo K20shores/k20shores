@@ -8,7 +8,6 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [11/22/63](https://www.goodreads.com/review/show/7591701910?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.34)
 - [The Drawing of the Three (The Dark Tower, #2)](https://www.goodreads.com/review/show/8395861049?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.23)
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/8283014542?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.39)
 - [The Air and its Secrets](https://www.goodreads.com/review/show/8283014001?utm_medium=api&utm_source=rss) by Guy Brasseur (⭐️)
