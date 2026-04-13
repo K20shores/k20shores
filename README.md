@@ -8,7 +8,7 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [The Tombs of Atuan (Earthsea Cycle, #2)](https://www.goodreads.com/review/show/8513606688?utm_medium=api&utm_source=rss) by Ursula K. Le Guin (⭐️4.13)
+- [The Farthest Shore (Earthsea Cycle, #3)](https://www.goodreads.com/review/show/8516354783?utm_medium=api&utm_source=rss) by Ursula K. Le Guin (⭐️4.13)
 - [The Color of Magic (Discworld, #1)](https://www.goodreads.com/review/show/7869061852?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️3.94)
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/8283014542?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.39)
 - [The Air and its Secrets](https://www.goodreads.com/review/show/8283014001?utm_medium=api&utm_source=rss) by Guy Brasseur (⭐️)
