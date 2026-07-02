@@ -8,7 +8,6 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [The Science of Gardening: Discover How Your Garden Really Grows](https://www.goodreads.com/review/show/8705730915?utm_medium=api&utm_source=rss) by Stuart Farrimond (⭐️4.06)
 - [The Strength of the Few (Hierarchy, #2)](https://www.goodreads.com/review/show/8342868187?utm_medium=api&utm_source=rss) by James Islington (⭐️4.28)
 - [The Light Fantastic (Discworld, #2; Rincewind, #2)](https://www.goodreads.com/review/show/8560286486?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.34)
 - [How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)](https://www.goodreads.com/review/show/8560068907?utm_medium=api&utm_source=rss) by George Pólya (⭐️4.17)
