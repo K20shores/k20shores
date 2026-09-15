@@ -8,7 +8,7 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [The Gate of the Feral Gods (Dungeon Crawler Carl, #4)](https://www.goodreads.com/review/show/8939750165?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐️4.49)
+- [The Gate of the Feral Gods (Dungeon Crawler Carl, #4)](https://www.goodreads.com/review/show/8939750165?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐️4.48)
 - [The Light Fantastic (Discworld, #2; Rincewind, #2)](https://www.goodreads.com/review/show/8560286486?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.34)
 - [How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)](https://www.goodreads.com/review/show/8560068907?utm_medium=api&utm_source=rss) by George Pólya (⭐️4.18)
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/8283014542?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.38)
