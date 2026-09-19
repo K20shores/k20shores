@@ -8,7 +8,6 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
-- [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://www.goodreads.com/review/show/8949621312?utm_medium=api&utm_source=rss) by April Dunford (⭐️4.23)
 - [The Gate of the Feral Gods (Dungeon Crawler Carl, #4)](https://www.goodreads.com/review/show/8939750165?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐️4.48)
 - [The Light Fantastic (Discworld, #2; Rincewind, #2)](https://www.goodreads.com/review/show/8560286486?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.34)
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/8283014542?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.38)
