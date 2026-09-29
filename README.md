@@ -8,6 +8,7 @@
 
 ### Reading
 <!-- GOODREADS-LIST:START -->
+- [Rivers of London (Rivers of London, #1)](https://www.goodreads.com/review/show/8982282714?utm_medium=api&utm_source=rss) by Ben Aaronovitch (⭐️3.81)
 - [The Butcher's Masquerade (Dungeon Crawler Carl, #5)](https://www.goodreads.com/review/show/8978834443?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐️4.65)
 - [The Light Fantastic (Discworld, #2; Rincewind, #2)](https://www.goodreads.com/review/show/8560286486?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.34)
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.goodreads.com/review/show/8283014542?utm_medium=api&utm_source=rss) by Samin Nosrat (⭐️4.38)
